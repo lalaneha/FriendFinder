@@ -5,7 +5,7 @@ var friends = [
 		scores: [5, 1, 2, 3, 1, 2, 5, 1, 1, 1]
 	},
 	{
-		name: "Sweet Dee",
+		name: "Marilyn",
 		photo: "https://vignette2.wikia.nocookie.net/itsalwayssunny/images/f/f3/Square-Dee-Cheesy.jpg",
 		scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
 	},
@@ -15,7 +15,7 @@ var friends = [
 		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
 	},
 	{
-		name: "Mac",
+		name: "Andrew",
 		photo: "https://vignette3.wikia.nocookie.net/itsalwayssunny/images/5/5f/Mac_-_Season_8.jpg",
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
